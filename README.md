@@ -1,5 +1,9 @@
 # Aps 2 Back - End Unisenai
 
+## Feito por:
+Carlos Tokarski Borges Neto <br>
+Dheyvid Bastos Pinto
+
 ## API de Eventos Acadêmicos
 
 ## API RESTful desenvolvida em Python utilizando FastAPI para gerenciamento de eventos acadêmicos, participantes e inscrições.
